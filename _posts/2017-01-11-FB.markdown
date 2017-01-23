@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Polub nas na FB!"
+date:   2017-01-11 23:31:31 +0100
+categories: news
+---
+Czy jesteście już członkami naszej grupy Fejsbukowej?
+Jeżeli nie, napiszcie do [naszego Fejsbuczka] [jekyll-gh]. 
+
+
+[jekyll-gh]:   https://facebook.com/gamblersi
