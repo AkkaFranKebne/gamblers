@@ -35,5 +35,5 @@ exclude:
   - Gemfile.lock
 include:
   - assets
-  - _posts 
-  - assets/main.css
+ # - _posts 
+#  - assets/main.css
